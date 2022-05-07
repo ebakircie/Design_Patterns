@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "Creational
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Creational\Singleton\Singleton.csproj", "{D2F4F82F-1E3A-4036-A757-29DA0921E66A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "Behavioral\ChainOfResponsibility\ChainOfResponsibility.csproj", "{8C6E2D5C-F59F-4A65-B32E-200EA572AC82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D2F4F82F-1E3A-4036-A757-29DA0921E66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2F4F82F-1E3A-4036-A757-29DA0921E66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2F4F82F-1E3A-4036-A757-29DA0921E66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6E2D5C-F59F-4A65-B32E-200EA572AC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6E2D5C-F59F-4A65-B32E-200EA572AC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6E2D5C-F59F-4A65-B32E-200EA572AC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6E2D5C-F59F-4A65-B32E-200EA572AC82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{0DF497C2-F585-4AAD-B88E-3FB59741840F} = {2AE662CF-2CDE-4A25-A587-E3294CE9D33C}
 		{88E55D36-232B-47D3-9059-7747E00E3BE6} = {73A79AF4-00A7-40D7-8095-F5EC0C23301A}
 		{D2F4F82F-1E3A-4036-A757-29DA0921E66A} = {73A79AF4-00A7-40D7-8095-F5EC0C23301A}
+		{8C6E2D5C-F59F-4A65-B32E-200EA572AC82} = {2AE662CF-2CDE-4A25-A587-E3294CE9D33C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B4548D9-698C-4300-9A44-A8960EF8935C}
